@@ -3,6 +3,7 @@
 **Happie Streets** is a vibrant and responsive food ordering website built using HTML, CSS, and JavaScript. It features traditional and western dishes, special offers, customer feedback, and a smooth user interface.
 
 🔗 **Live Demo**: [Visit Now](https://hemakeshg.neocities.org/site.html/home)
+ **Code**: [Click here](https://drive.google.com/drive/folders/1paPbKlfFrLWMI0OL1kGRf5Yzp54jng0m))
 
 ---
 
